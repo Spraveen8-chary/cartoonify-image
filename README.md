@@ -11,7 +11,7 @@ Before you can use this program, make sure you have the required Python packages
 - pip install imageio
 If the above commands return an error, you can use the following commands to ensure pip is installed and then install the packages:
 
--->py -3.11 -m ensurepip --default-pip
+- -->py -3.11 -m ensurepip --default-pip
 - -->py -3.11 -m pip install easygui
 - -->py -3.11 -m pip install imageio
 
