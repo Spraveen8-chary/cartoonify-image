@@ -1,13 +1,14 @@
-# cartoonify-image
+# Cartoonify Image
 
-##Cartoonify Image
-###is a Python program that allows you to apply a cartoon effect to your images. It uses various image processing techniques to achieve this effect. This README provides instructions on how to set up and use the program.
+**Cartoonify Image** is a Python program that allows you to apply a cartoon effect to your images. It uses various image processing techniques to achieve this effect. This README provides instructions on how to set up and use the program.
 
-#Installation
+## Installation
+
 Before you can use this program, make sure you have the required Python packages installed. You can install them using pip:
--->pip install easygui
--->pip install imageio
 
+```bash
+pip install easygui
+pip install imageio
 If the above commands return an error, you can use the following commands to ensure pip is installed and then install the packages:
 
 -->py -3.11 -m ensurepip --default-pip
